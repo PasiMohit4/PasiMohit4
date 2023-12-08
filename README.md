@@ -1,10 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]()
 <h1 align="center">Hi 👋, I'm Mohit Pasi</h1>
 <h3 align="center">Building the Future of Mobile Apps, One Line of Code at a Time 🚀</h3>
 <img align="right" alt="Coding" width="400" src="https://www.apple.com/newsroom/images/product/app-store/Apple_App_Store_10th_anniversary_07102018_big.gif.large.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pasimohit4&label=Profile%20views&color=0e75b6&style=flat" alt="pasimohit4" /> </p>
-
 <p align="left"> <a href="https://twitter.com/pasi_mohit4" target="blank"><img src="https://img.shields.io/twitter/follow/pasi_mohit4?logo=twitter&style=for-the-badge" alt="pasi_mohit4" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter , React Native , Kotlin**
